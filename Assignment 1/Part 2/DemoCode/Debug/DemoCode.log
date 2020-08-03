@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DemoCode.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Part2.cpp
+c:\users\jmfio\onedrive\documents\uow csci 336\assignment 1\part 2\democode\part2.cpp(90): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\jmfio\onedrive\documents\uow csci 336\assignment 1\part 2\democode\part2.cpp(195): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jmfio\onedrive\documents\uow csci 336\assignment 1\part 2\democode\part2.cpp(395): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jmfio\onedrive\documents\uow csci 336\assignment 1\part 2\democode\part2.cpp(401): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  DemoCode.vcxproj -> C:\Users\jmfio\OneDrive\Documents\UOW CSCI 336\Assignment 1\Part 2\Debug\Part2.exe
+  DemoCode.vcxproj -> C:\Users\jmfio\OneDrive\Documents\UOW CSCI 336\Assignment 1\Part 2\Debug\Part2.pdb (Partial PDB)

@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Assignment2.vcxproj, Tutorial.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assignment3.cpp
+c:\users\jmfio\onedrive\college\uow csci 336 - graphics\assignment 3\solution\tutorial\assignment3.cpp(1021): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jmfio\onedrive\college\uow csci 336 - graphics\assignment 3\solution\tutorial\assignment3.cpp(1026): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jmfio\onedrive\college\uow csci 336 - graphics\assignment 3\solution\tutorial\assignment3.cpp(1196): warning C4018: '<': signed/unsigned mismatch
+c:\users\jmfio\onedrive\college\uow csci 336 - graphics\assignment 3\solution\tutorial\assignment3.cpp(1210): warning C4018: '<': signed/unsigned mismatch
+c:\users\jmfio\onedrive\college\uow csci 336 - graphics\assignment 3\solution\tutorial\assignment3.cpp(1230): warning C4018: '<': signed/unsigned mismatch
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Tutorial.vcxproj -> C:\Users\jmfio\OneDrive\College\UOW CSCI 336 - Graphics\Assignment 3\Solution\Debug\Assignment3.exe
+  Tutorial.vcxproj -> C:\Users\jmfio\OneDrive\College\UOW CSCI 336 - Graphics\Assignment 3\Solution\Debug\Assignment3.pdb (Partial PDB)
